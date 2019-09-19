@@ -36,10 +36,10 @@
 ## Links
 
 ```
-[link](http://example.com)
+[Markdown_cheat_sheet](https://github.com/edif/Markdown_cheat_sheet)
 ```
 
-[link](http://example.com)
+[Markdown_cheat_sheet](https://github.com/edif/Markdown_cheat_sheet)
 
 
 ## Image
