@@ -1,15 +1,15 @@
 # Markdown reference
----
+
 ```
 #Heading 1
 ###Heading 3
 ######Heading 6
 ```
+
 #Heading 1
 ###Heading 3
 ######Heading 6
 
----
 
 ## Text
 
@@ -23,6 +23,7 @@
 ^Superscript^
 ~Subscript~
 ```
+
 *italic*
 **bold**
 ***bold-italic***
@@ -32,7 +33,6 @@
 ^Superscript^
 ~Subscript~
 
----
 ## Links
 
 ```
@@ -43,6 +43,7 @@
 
 
 ## Image
+
 ```
 ![markdown_image](markdown.png)
 ```
