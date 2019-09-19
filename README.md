@@ -1,4 +1,4 @@
-#Markdown reference
+# Markdown reference
 ---
 ```
 #Heading 1
@@ -11,7 +11,7 @@
 
 ---
 
-##Text
+## Text
 
 ```
 *italic*
@@ -33,7 +33,7 @@
 ~Subscript~
 
 ---
-##Links
+## Links
 
 ```
 [link](http://example.com)
@@ -42,7 +42,7 @@
 [link](http://example.com)
 
 
-##Image
+## Image
 ```
 ![markdown_image](markdown.png)
 ```
