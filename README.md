@@ -1,6 +1,6 @@
 # Markdown reference
 
-## Headings
+## Headers
 
 ```
 #Heading 1
