@@ -1,5 +1,7 @@
 # Markdown reference
 
+## Headings
+
 ```
 #Heading 1
 ###Heading 3
@@ -11,7 +13,7 @@
 ######Heading 6
 
 
-## Text
+## Text Formatting
 
 ```
 *italic*
