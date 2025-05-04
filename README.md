@@ -3,14 +3,14 @@
 ## Headers
 
 ```
-#Heading 1
-###Heading 3
-######Heading 6
+# Heading 1
+### Heading 3
+###### Heading 6
 ```
 
-#Heading 1
-###Heading 3
-######Heading 6
+# Heading 1
+### Heading 3
+###### Heading 6
 
 
 ## Text Formatting
@@ -41,9 +41,13 @@
 
 1. First ordered list item
 2. Another item
+
 	* Unordered sub-list.
+
 3. Actual numbers don't matter, just that it's a number
-	1. Ordered sub-list
+
+	3.1 Ordered sub-list
+
 4. And another item.
 
 * Unordered list can use asterisks
@@ -52,12 +56,16 @@
 
 ```
 
- 1. First ordered list item
- 2. Another item
-	 - Unordered sub-list.
- 3. Actual numbers don't matter, just that it's a number
-	 1. Ordered sub-list
- 4. And another item.
+1. First ordered list item
+2. Another item
+	
+ 	* Unordered sub-list.
+
+3. Actual numbers don't matter, just that it's a number
+
+	3.1 Ordered sub-list
+
+5. And another item.
 
 * Unordered list can use asterisks
 
