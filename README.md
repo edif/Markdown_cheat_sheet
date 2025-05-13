@@ -2,20 +2,21 @@
 
 ## Headers
 
-```
+```markdown
 # Heading 1
 ### Heading 3
 ###### Heading 6
 ```
 
 # Heading 1
-### Heading 3
-###### Heading 6
 
+### Heading 3
+
+###### Heading 6
 
 ## Text Formatting
 
-```
+```markdown
 *italic*
 **bold**
 ***bold-italic***
@@ -34,19 +35,39 @@
 ==Highlight==
 ^Superscript^
 ~Subscript~
+
+## Blockquotes
+
+```markdown
+> First line
+>
+> Another line
+>
+>> Nested Line
+>
+> Last line
+```
+
+> First line
+>
+> Another line
+>
+>> Nested Line
+>
+> Last line
 
 ## Lists
 
-```
+```markdown
 
 1. First ordered list item
 2. Another item
 
-	* Unordered sub-list.
+   - Unordered sub-list.
 
 3. Actual numbers don't matter, just that it's a number
 
-	3.1 Ordered sub-list
+   3.1 Ordered sub-list
 
 4. And another item.
 
@@ -58,14 +79,14 @@
 
 1. First ordered list item
 2. Another item
-	
- 	* Unordered sub-list.
+
+   - Unordered sub-list.
 
 3. Actual numbers don't matter, just that it's a number
 
-	3.1 Ordered sub-list
+   3.1 Ordered sub-list
 
-5. And another item.
+4. And another item.
 
 * Unordered list can use asterisks
 
@@ -75,16 +96,16 @@
 
 ## Links
 
-```
+```markdown
 [Markdown_cheat_sheet](https://github.com/edif/Markdown_cheat_sheet)
 ```
 
 [Markdown_cheat_sheet](https://github.com/edif/Markdown_cheat_sheet)
-
 
 ## Image
 
-```
+```markdown
 ![markdown_image](markdown.png)
 ```
+
 ![markdown image](markdown.png)
